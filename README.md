@@ -14,7 +14,6 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 ```javascript
 const maaz = {
-    pronouns: "He" | "Him",
     code: ["Javascript", "DAPPs", "Python"],
     askMeAbout: ["web & mobile dev", "tech", "blockchain", "soccer"],
     technologies: {
@@ -38,4 +37,4 @@ const maaz = {
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I'd love to connect with you</b> so please feel free to reach out <b>. Looking forward to hearing from you!</b> 😊</em>
+<em><b>I'd love to connect with you</b> so please feel free to reach out <b>. Looking forward to hearing from you!</b> 😊</em>
