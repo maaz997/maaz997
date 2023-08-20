@@ -15,65 +15,29 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 ```javascript
 const maaz = {
   "Front-end": {
-    "Proficiency": [
-      "React",
-      "Gatsby",
-      "Next",
-      "React Native"
-    ],
-    "Specializations": [
-      "Redux",
-      "Hooks"
-    ],
-    "Design Libraries": [
-      "Material UI",
-      "Antd"
-    ],
+    "Proficiency": ["React", "Gatsby", "Next", "React Native"],
+    "Specializations": ["Redux", "Hooks"],
+    "Design Libraries": ["Material UI", "Antd"],
     "Interactive Preview": "Storybook"
   },
   "Back-end": {
-    "Understanding": [
-      "NodeJS",
-      "ExpressJS"
-    ]
+    "Understanding": ["NodeJS", "ExpressJS"]
   },
-  "Languages": [
-    "JavaScript",
-    "Typescript",
-    "HTML",
-    "CSS"
-  ],
+  "Languages": ["JavaScript", "Typescript", "HTML", "CSS"],
   "Database Handling": {
-    "Experience": [
-      "MongoDB",
-      "Firestore"
-    ]
+    "Experience": ["MongoDB", "Firestore"]
   },
   "Content Management": {
-    "Proficiency": [
-      "Prismic",
-      "Strapi"
-    ]
+    "Proficiency": ["Prismic", "Strapi"]
   },
   "Technical Proficiency": {
-    "Familiarity": [
-      "GraphQL",
-      "Webpack"
-    ]
+    "Familiarity": ["GraphQL", "Webpack"]
   },
   "Version Control": {
-    "Proficiency": [
-      "Github",
-      "BitBucket",
-      "Gitlab"
-    ]
+    "Proficiency": ["Github", "BitBucket", "Gitlab"]
   },
-  "Cloud Capabilities": {
-    "Deployment": "AWS"
-  },
-  "Dev Tools": {
-    "Assistance": "Github Copilot"
-  }
+  "Cloud Capabilities": "AWS",
+  "Dev Tools": "Github Copilot"
 };
 ```
 
