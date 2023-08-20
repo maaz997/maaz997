@@ -10,30 +10,70 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 <a href="https://calendly.com/maazmuhammad9266/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+### A little more about me...
 
 ```javascript
 const maaz = {
-    code: ["Javascript", "DAPPs", "Python"],
-    askMeAbout: ["web & mobile dev", "tech", "blockchain", "soccer"],
-    technologies: {
-        frontEnd: {
-            js: ["ReactJS", "NextJS", "GatsbyJS","PreactJS"],
-        },
-        backEnd: {
-            js: ["Node", "Fastify", "Express"],
-        },
-        mobileApp: {
-            hybrid: ["React Native", "Flutter"]
-            native: ["Android Development", "iOS Development"],
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium"]
-    },
-    architecture: ["Serverless Architecture", "PWA", "SPA"],
-    currentFocus: "Be the best at everything",
-    funFact: "I'm not that fun at parties"
+  "Front-end": {
+    "Proficiency": [
+      "React",
+      "Gatsby",
+      "Next",
+      "React Native"
+    ],
+    "Specializations": [
+      "Redux",
+      "Hooks"
+    ],
+    "Design Libraries": [
+      "Material UI",
+      "Antd"
+    ],
+    "Interactive Preview": "Storybook"
+  },
+  "Back-end": {
+    "Understanding": [
+      "NodeJS",
+      "ExpressJS"
+    ]
+  },
+  "Languages": [
+    "JavaScript",
+    "Typescript",
+    "HTML",
+    "CSS"
+  ],
+  "Database Handling": {
+    "Experience": [
+      "MongoDB",
+      "Firestore"
+    ]
+  },
+  "Content Management": {
+    "Proficiency": [
+      "Prismic",
+      "Strapi"
+    ]
+  },
+  "Technical Proficiency": {
+    "Familiarity": [
+      "GraphQL",
+      "Webpack"
+    ]
+  },
+  "Version Control": {
+    "Proficiency": [
+      "Github",
+      "BitBucket",
+      "Gitlab"
+    ]
+  },
+  "Cloud Capabilities": {
+    "Deployment": "AWS"
+  },
+  "Dev Tools": {
+    "Assistance": "Github Copilot"
+  }
 };
 ```
 
