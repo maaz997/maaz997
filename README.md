@@ -1,6 +1,8 @@
 <h2>Hi! I'm Maaz Muhammad.</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Senior Software Engineer on <a href="https://www.upwork.com/freelancers/~0171ac607faa3167b4"> Upwork
+<p><em>CTO @ <a href="https://www.upwork.com/freelancers/~0171ac607faa3167b4"> Yourspeak
+<p><em>CTO @ <a href="https://www.upwork.com/freelancers/~0171ac607faa3167b4"> Silver Sparrow Studios
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
