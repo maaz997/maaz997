@@ -1,7 +1,6 @@
 <h2>Hi! I'm Maaz Muhammad.</h2>
 <p><em>Senior Software Engineer on <a href="https://www.upwork.com/freelancers/~0171ac607faa3167b4"> Upwork
-<p><em>CTO @ <a href="https://www.upwork.com/freelancers/~0171ac607faa3167b4"> Yourspeak
-</em></p>
+
 
 
 ### A little more about me...
