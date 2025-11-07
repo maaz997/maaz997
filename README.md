@@ -1,37 +1,24 @@
-<h2>Hi! I'm Maaz Muhammad.</h2>
-<p><em>Senior Software Engineer on <a href="https://www.upwork.com/freelancers/~0171ac607faa3167b4"> Upwork
+<h2>Hi! I'm Maaz Muhammad 👋</h2>
+<p><em>Senior Software Engineer | <a href="https://www.upwork.com/freelancers/~0171ac607faa3167b4">Top Rated Plus on Upwork</a></em></p>
 
-
-
-### A little more about me...
+<h3>🚀 A little more about me...</h3>
 
 ```javascript
 const maaz = {
-  "Front-end": {
-    "Proficiency": ["React", "Gatsby", "Next", "React Native"],
-    "Specializations": ["Redux", "Hooks"],
-    "Design Libraries": ["Material UI", "Antd"],
-    "Interactive Preview": "Storybook"
+  "FrontEnd": {
+    "Frameworks": ["React", "Next.js", "React Native", "Expo"],
+    "State Management": ["Redux", "Zustand", "Recoil"],
+    "Styling": ["TailwindCSS", "Material UI", "Chakra UI", "Ant Design"],
+    "UI/UX Tools": ["Storybook", "Figma Integration"]
   },
-  "Back-end": {
-    "Understanding": ["NodeJS", "ExpressJS"]
+  "BackEnd": {
+    "Core": ["Node.js", "Express", "Laravel (PHP)", "Python (FastAPI / Flask)"],
+    "API": ["REST", "GraphQL"]
   },
-  "Languages": ["JavaScript", "Typescript", "HTML", "CSS"],
-  "Database Handling": {
-    "Experience": ["MongoDB", "Firestore"]
-  },
-  "Content Management": {
-    "Proficiency": ["Prismic", "Strapi"]
-  },
-  "Technical Proficiency": {
-    "Familiarity": ["GraphQL", "Webpack"]
-  },
-  "Version Control": {
-    "Proficiency": ["Github", "BitBucket", "Gitlab"]
-  },
-  "Cloud Capabilities": "AWS",
-  "Dev Tools": "Github Copilot"
+  "Databases": ["PostgreSQL", "MongoDB", "Firestore", "MySQL"],
+  "DevOps & Cloud": ["AWS", "Vercel", "Docker", "Cloudflare"],
+  "Mobile": ["React Native", "Expo", "App Store & Play Store Deployments"],
+  "VersionControl": ["GitHub", "GitLab", "Bitbucket"],
+  "AI & Integrations": ["OpenAI APIs", "AppsFlyer SDK", "Firebase", "Analytics"],
+  "Core Languages": ["JavaScript", "TypeScript", "HTML", "CSS", "Python"]
 };
-```
-
-<em><b>I'd love to connect with you</b> so please feel free to reach out <b>. Looking forward to hearing from you!</b> 😊</em>
