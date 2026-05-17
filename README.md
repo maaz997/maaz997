@@ -24,41 +24,28 @@ Currently I:
 
 ---
 
-## 🧠 What I Work With
+🧠 What I Work With
 
-### Frontend
+**Frontend**
+- React • Next.js • React Native • Expo
 
-* React
-* Next.js
-* React Native
-* Expo
+**Backend**
+- Node.js / Express • Laravel (PHP) • Python (FastAPI / Flask)
 
-### Backend
+**Databases**
+- PostgreSQL • MongoDB • MySQL • Firebase / Firestore
 
-* Node.js / Express
-* Laravel (PHP)
-* Python (FastAPI / Flask)
+**Cloud & DevOps**
+- AWS • Docker • Vercel • Cloudflare
 
-### Databases
-
-* PostgreSQL
-* MongoDB
-* MySQL
-* Firebase / Firestore
-
-### Cloud & DevOps
-
-* AWS
-* Docker
-* Vercel
-* Cloudflare
-
-### AI & Integrations
-
-* OpenAI APIs
-* Analytics systems
-* Recommendation engines
-* Third-party SDK integrations
+**AI & Machine Learning** ← New prominent section
+- OpenAI APIs & LLM integrations
+- Recommendation engines & personalization systems
+- Analytics & predictive modeling
+- LangChain / LlamaIndex (building production AI agents)
+- PyTorch & Hugging Face (upcoming deep learning projects)
+- Vector databases & RAG pipelines
+- AI-powered features in scalable web & mobile apps
 
 ---
 
