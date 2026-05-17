@@ -79,10 +79,20 @@ https://www.upwork.com/freelancers/~0171ac607faa3167b4
 
 ## ⚡ Current Focus
 
-* AI integrations in production applications
-* Scalable social platforms
-* Mobile-first product development
-* Developer tooling & architecture
+• Building production-grade AI features and LLM-powered products
+• Developing intelligent recommendation systems and agents
+• Scaling social & community platforms with AI moderation and personalization
+• Mobile-first AI experiences (React Native + AI)
+• Architecting full-stack AI applications from MVP to production
+
+---
+
+🤖 Featured AI/ML Work & Experiments
+(coming soon / currently building)
+
+• AI recommendation engine for Yourspeak
+• LLM-powered content moderation & smart replies
+• RAG-based knowledge assistant
 
 ---
 
