@@ -1,7 +1,34 @@
 <h1 align="center">Hi 👋 I'm Maaz Muhammad</h1>
 <p align="center">
-Senior Software Engineer • Tech Lead • Product Builder
+Senior Software Engineer • Tech Lead • AI Product Builder
 </p>
+
+<div align="left">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?logo=expo&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FF9D00?logo=huggingface&logoColor=white)
+
+</div>
 
 <p align="center">
 Top Rated Plus Freelancer on Upwork • Building scalable web & mobile products
@@ -11,9 +38,10 @@ Top Rated Plus Freelancer on Upwork • Building scalable web & mobile products
 
 ## 🚀 About Me
 
-I'm a **Senior Software Engineer and Tech Lead** with 7+ years of experience building scalable **web platforms, mobile apps, and AI-powered products**.
+**Senior Software Engineer • Tech Lead • AI Product Builder**  
+Top Rated Plus Freelancer on Upwork | 7+ years shipping scalable web, mobile & AI-powered products
 
-I specialize in **React ecosystems, backend architecture, and product-focused development** — helping startups and companies ship reliable products fast.
+I help startups and companies go from idea → production with modern full-stack architecture and intelligent AI features.
 
 Currently I:
 
